@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ed2f0b3-1776-4548-980a-84c5fab0de0e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/spirng-jdbc-jpa-learning/src/main/java/com/springlearning/springjpahibernatelearning/spring_jdbc/repository/PersonDAOSpringJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/spirng-jdbc-jpa-learning/src/main/java/com/springlearning/springjpahibernatelearning/spring_jdbc/repository/PersonDAOSpringJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spirng-jdbc-jpa-learning/src/main/java/com/springlearning/springjpahibernatelearning/spring_jpa/SpringJpaHibernateLearningApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spirng-jdbc-jpa-learning/src/main/java/com/springlearning/springjpahibernatelearning/spring_jpa/SpringJpaHibernateLearningApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spirng-jdbc-jpa-learning/src/test/java/com/springlearning/springjpahibernatelearning/SpringJpaHibernateLearningApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/spirng-jdbc-jpa-learning/src/test/java/com/springlearning/springjpahibernatelearning/SpringJpaHibernateLearningApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring4Learning/hello-world-spring-4/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring4Learning/hello-world-spring-4/demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring4Learning/hello-world-spring-4/demo/src/main/java/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring4Learning/hello-world-spring-4/demo/src/main/java/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring4Learning/hello-world-spring-4/demo/src/main/java/demo/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring4Learning/hello-world-spring-4/demo/src/main/java/demo/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring4Learning/hello-world-spring-4/demo/src/test/java/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring4Learning/hello-world-spring-4/demo/src/test/java/demo/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring4Learning/spirng-core/src/main/java/SpringScopeLearning/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring4Learning/spirng-core/src/main/java/SpringScopeLearning/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring4Learning/spring-mvc-project-without-jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring4Learning/spring-mvc-project-without-jpa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring4Learning/spring-mvc-project-without-jpa/src/test/java/com/springlearning/srpingmvc/springmvc/SpringmvcApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring4Learning/spring-mvc-project-without-jpa/src/test/java/com/springlearning/srpingmvc/springmvc/SpringmvcApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/jpa-advance-learning" />
+  </component>
+  <component name="ProjectId" id="1jSA3v7uKB3X7jePHXrZQSA1Y6B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AdvanceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="java" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.selflearning.jpa.advance.AdvanceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ed2f0b3-1776-4548-980a-84c5fab0de0e" name="Default Changelist" comment="" />
+      <created>1603786923503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603786923503</updated>
+      <workItem from="1603786938317" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>

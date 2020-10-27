@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa-advance-learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spirng-jdbc-jpa-learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring4Learning/hello-world-spring-4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring4Learning/spirng-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring4Learning/spring-aop-learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring4Learning/spring-mvc-project-without-jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring4Learning/stripelearning/spring-aop-learning" vcs="Git" />
+  </component>
+</project>
